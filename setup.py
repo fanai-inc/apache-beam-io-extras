@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     py_modules=['beam_io_extras'],
     install_requires=[
-        'apache-beam==2.5',
+        'apache-beam>=2.25',
     ],
     url='https://github.com/invanatech/apache-beam-python-ptransforms',
     license='MIT License',
